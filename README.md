@@ -1,4 +1,4 @@
-Hey there! :v:, my name is Ángel, I am a self-taught Fullstack Developer :boy: from México (the land of the taco).
+Hey there! :v:, my name is Ángel, I am a self-taught Full Stack Developer :boy: from México (the land of the taco).
 
 In the Frontend, I'm the React.js or React Native guy :sunglasses:, and currently, I am trying to mix them using React Native Web (it is kinda hard :dizzy_face:) :thumbsup:.
 
